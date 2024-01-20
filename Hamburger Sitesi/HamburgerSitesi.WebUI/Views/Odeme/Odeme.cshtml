@@ -1,0 +1,80 @@
+﻿<html>
+<head>
+	<style>
+		.cerceve {
+			border: 2px solid #ddd; /* Çerçeve rengi ve kalınlığı */
+			padding: 10px; /* Çerçeve iç kenar boşluğu */
+		}
+
+			.cerceve img {
+				max-width: 100%; /* Görüntüyü çerçeve içine sığdırma */
+				height: auto; /* Görüntü oranını koruma */
+			}
+	</style>
+</head>
+<body>
+	<div class="row">
+		<h1 class="text-center">FATURA BİLGİLERİNİZİ GİRİNİZ.</h1>
+		<div class="col-6 offset-3" style="padding-top:50px">
+
+			<div class="cerceve">
+				<div class="row g-3">
+					<div class="col-sm-6">
+						<label for="firstName" class="form-label" _msttexthash="16315" _msthash="27" style="direction: ltr; text-align: left;">Ad</label>
+						<input type="text" class="form-control" id="firstName" placeholder="" value="" required="">
+					</div>
+
+					<div class="col-sm-6">
+						<label for="lastName" class="form-label" _msttexthash="107744" _msthash="29" style="direction: ltr; text-align: left;">Soyadı</label>
+						<input type="text" class="form-control" id="lastName" placeholder="" value="" required="">
+						<div class="invalid-feedback" _msttexthash="7386340" _msthidden="1" _msthash="30">
+							يرجى إدخال اسم عائلة صحيح.
+						</div>
+					</div>
+
+
+
+					<div class="col-12">
+						<label for="email" class="form-label" _msttexthash="574509" _msthash="34" style="direction: ltr; text-align: left;">E-posta <span class="text-body-secondary" _istranslated="1">(Zorunludur.)</span></label>
+						<input type="email" class="form-control" id="email" placeholder="you@example.com" _mstplaceholder="274417" _msthash="35" style="text-align: left;">
+					</div>
+
+					<div class="col-12">
+						<label for="address" class="form-label" _msttexthash="59228" _msthash="37" style="direction: ltr; text-align: left;">Adres</label>
+						<input type="text" class="form-control" id="address" required="" _mstplaceholder="3660696" _msthash="38" style="direction: ltr; text-align: left;">
+
+					</div>
+
+
+					<div class="col-md-5">
+						<label for="country" class="form-label" _msttexthash="56901" _msthash="42" style="direction: ltr; text-align: left;">Ülke</label>
+						<select class="form-select" id="country" required="">
+							<option value="" _msttexthash="720057" _msthash="43" style="direction: ltr; text-align: left;">Seçmek...</option>
+							<option _msttexthash="9182030" _msthash="44" style="direction: ltr; text-align: left;">Türkiye</option>
+						</select>
+
+					</div>
+
+					<div class="col-md-4">
+						<label for="state" class="form-label" _msttexthash="72059" _msthash="46" style="direction: ltr; text-align: left;">Bölge</label>
+						<select class="form-select" id="state" required="">
+							<option value="" _msttexthash="720057" _msthash="47" style="direction: ltr; text-align: left;">Seçmek...</option>
+							<option _msttexthash="2388139" _msthash="48" style="direction: ltr; text-align: left;">Ankara</option>
+						</select>
+					</div>
+
+					<div class="col-md-3">
+						<label for="zip" class="form-label" _msttexthash="132704" _msthash="50" style="direction: ltr; text-align: left;">Posta Kodu</label>
+						<input type="text" class="form-control" id="zip" placeholder="" required="">
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<div class="text-center ">
+		<button type="button" class=" w-200 btn btn-primary btn-lg text-center ">Ödemeye Geçebilirsiniz.</button>
+		</div>
+
+</body>
+</html>

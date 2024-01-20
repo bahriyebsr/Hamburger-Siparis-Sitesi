@@ -1,0 +1,15 @@
+C:\Users\Kerem\source\repos\Hamburger Sitesi\HamburgerSitesi.Business\bin\Debug\net6.0\HamburgerSitesi.Business.deps.json
+C:\Users\Kerem\source\repos\Hamburger Sitesi\HamburgerSitesi.Business\bin\Debug\net6.0\HamburgerSitesi.Business.dll
+C:\Users\Kerem\source\repos\Hamburger Sitesi\HamburgerSitesi.Business\bin\Debug\net6.0\HamburgerSitesi.Business.pdb
+C:\Users\Kerem\source\repos\Hamburger Sitesi\HamburgerSitesi.Business\bin\Debug\net6.0\HamburgerSitesi.Data.dll
+C:\Users\Kerem\source\repos\Hamburger Sitesi\HamburgerSitesi.Business\bin\Debug\net6.0\HamburgerSitesi.Data.pdb
+C:\Users\Kerem\source\repos\Hamburger Sitesi\HamburgerSitesi.Business\obj\Debug\net6.0\HamburgerSitesi.Business.csproj.AssemblyReference.cache
+C:\Users\Kerem\source\repos\Hamburger Sitesi\HamburgerSitesi.Business\obj\Debug\net6.0\HamburgerSitesi.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerem\source\repos\Hamburger Sitesi\HamburgerSitesi.Business\obj\Debug\net6.0\HamburgerSitesi.Business.AssemblyInfoInputs.cache
+C:\Users\Kerem\source\repos\Hamburger Sitesi\HamburgerSitesi.Business\obj\Debug\net6.0\HamburgerSitesi.Business.AssemblyInfo.cs
+C:\Users\Kerem\source\repos\Hamburger Sitesi\HamburgerSitesi.Business\obj\Debug\net6.0\HamburgerSitesi.Business.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\source\repos\Hamburger Sitesi\HamburgerSitesi.Business\obj\Debug\net6.0\HamburgerSitesi.Business.csproj.CopyComplete
+C:\Users\Kerem\source\repos\Hamburger Sitesi\HamburgerSitesi.Business\obj\Debug\net6.0\HamburgerSitesi.Business.dll
+C:\Users\Kerem\source\repos\Hamburger Sitesi\HamburgerSitesi.Business\obj\Debug\net6.0\refint\HamburgerSitesi.Business.dll
+C:\Users\Kerem\source\repos\Hamburger Sitesi\HamburgerSitesi.Business\obj\Debug\net6.0\HamburgerSitesi.Business.pdb
+C:\Users\Kerem\source\repos\Hamburger Sitesi\HamburgerSitesi.Business\obj\Debug\net6.0\ref\HamburgerSitesi.Business.dll

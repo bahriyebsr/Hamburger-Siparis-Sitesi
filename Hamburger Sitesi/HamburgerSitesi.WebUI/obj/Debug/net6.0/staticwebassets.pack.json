@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Kerem\\source\\repos\\Hamburger Sitesi\\HamburgerSitesi.WebUI\\wwwroot\\images\\background.jpeg",
+      "PackagePath": "staticwebassets\\images\\background.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Kerem\\source\\repos\\Hamburger Sitesi\\HamburgerSitesi.WebUI\\wwwroot\\images\\products\\546-1000x700-de200f6d-4c1a-40f4-afe0-a8793f0338a5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\546-1000x700-de200f6d-4c1a-40f4-afe0-a8793f0338a5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerem\\source\\repos\\Hamburger Sitesi\\HamburgerSitesi.WebUI\\wwwroot\\images\\products\\546-1000x700-fd0bf325-ed81-4607-b19f-ab18b43f5a9d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\546-1000x700-fd0bf325-ed81-4607-b19f-ab18b43f5a9d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerem\\source\\repos\\Hamburger Sitesi\\HamburgerSitesi.WebUI\\wwwroot\\images\\products\\866e6f88154b674e882f144f61bf9937 (1)-1d4bc03e-c1f4-487d-bc15-bc9cd358239c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\866e6f88154b674e882f144f61bf9937 (1)-1d4bc03e-c1f4-487d-bc15-bc9cd358239c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerem\\source\\repos\\Hamburger Sitesi\\HamburgerSitesi.WebUI\\wwwroot\\images\\products\\867686-Hamburger-French-fries-Buns-Cheese-Frikadeller-948ee317-1171-4757-bf13-3d0413190af0.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\867686-Hamburger-French-fries-Buns-Cheese-Frikadeller-948ee317-1171-4757-bf13-3d0413190af0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerem\\source\\repos\\Hamburger Sitesi\\HamburgerSitesi.WebUI\\wwwroot\\images\\products\\9a920b293714b50e98fa7ac828f28191-994121e4-ffd5-4e01-9b98-a1b5f6ee5c73.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\9a920b293714b50e98fa7ac828f28191-994121e4-ffd5-4e01-9b98-a1b5f6ee5c73.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Kerem\\source\\repos\\Hamburger Sitesi\\HamburgerSitesi.WebUI\\wwwroot\\images\\products\\FishBangerBurgerFlaevor1-6484b3aa-9832-4590-aad3-a1d1c58905a3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\FishBangerBurgerFlaevor1-6484b3aa-9832-4590-aad3-a1d1c58905a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerem\\source\\repos\\Hamburger Sitesi\\HamburgerSitesi.WebUI\\wwwroot\\images\\products\\Hamburger-ec2abf73-8423-4d17-918d-1da7028ba2ee.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\Hamburger-ec2abf73-8423-4d17-918d-1da7028ba2ee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerem\\source\\repos\\Hamburger Sitesi\\HamburgerSitesi.WebUI\\wwwroot\\images\\products\\PA130198-5e2bbcc2-a99c-4a24-8f80-ffc07c052200.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\PA130198-5e2bbcc2-a99c-4a24-8f80-ffc07c052200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerem\\source\\repos\\Hamburger Sitesi\\HamburgerSitesi.WebUI\\wwwroot\\images\\products\\hamburger-1-02468a28-0a37-4052-8f6e-571d57f8fed7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\hamburger-1-02468a28-0a37-4052-8f6e-571d57f8fed7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerem\\source\\repos\\Hamburger Sitesi\\HamburgerSitesi.WebUI\\wwwroot\\images\\products\\hamburger-1-8fc330e9-f690-432d-9b40-12c18a6f3ce9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\hamburger-1-8fc330e9-f690-432d-9b40-12c18a6f3ce9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerem\\source\\repos\\Hamburger Sitesi\\HamburgerSitesi.WebUI\\wwwroot\\images\\products\\hamburger-1-a5e36121-2a65-4aec-9674-dacbc119615d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\hamburger-1-a5e36121-2a65-4aec-9674-dacbc119615d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerem\\source\\repos\\Hamburger Sitesi\\HamburgerSitesi.WebUI\\wwwroot\\images\\products\\hamburger-1-bacb5cc9-522b-434f-b1ab-c15be3e2b9fa.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\hamburger-1-bacb5cc9-522b-434f-b1ab-c15be3e2b9fa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerem\\source\\repos\\Hamburger Sitesi\\HamburgerSitesi.WebUI\\wwwroot\\images\\products\\hamburger-1-fb207ee2-d6aa-4218-8ee6-badc5ce8e6d3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\hamburger-1-fb207ee2-d6aa-4218-8ee6-badc5ce8e6d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Kerem\\source\\repos\\Hamburger Sitesi\\HamburgerSitesi.WebUI\\wwwroot\\resimyok.png",
+      "PackagePath": "staticwebassets\\resimyok.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HamburgerSitesi.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HamburgerSitesi.WebUI.props",
+      "PackagePath": "build\\HamburgerSitesi.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HamburgerSitesi.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\HamburgerSitesi.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HamburgerSitesi.WebUI.props",
+      "PackagePath": "buildTransitive\\HamburgerSitesi.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
